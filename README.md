@@ -1,6 +1,6 @@
 <h3 align="center">A 14 Year old programmer from Sweden.</h3>
 
-- 🔭 I’m currently working on **Nothing**
+- 🔭 I’m currently working on **Alot**
 
 - 🌱 I’m currently learning **More Pentesting IG and Unix based langs**
 
