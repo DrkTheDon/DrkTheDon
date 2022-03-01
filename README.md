@@ -1,18 +1,8 @@
 <h3 align="center">A 14 Year old programmer from Sweden.</h3>
 
-- 🔭 I’m currently working on **Alot**
-
-- 🌱 I’m currently learning **More Pentesting IG and Unix based langs**
-
-- 👯 I’m looking to collaborate on **Anything**
-
-- 🤝 I’m looking for help with **Nothing**
-
-- 💬 Ask me about **Anything**
+- 🔭 I’m currently working on **DrkSelfbot**
 
 - 📫 How to reach me **darksurface7810@gmail.com**
-
-- ⚡ Fun fact **I'm a fast learner**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
