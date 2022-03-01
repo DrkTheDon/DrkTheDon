@@ -1,4 +1,4 @@
-<h3 align="center">A 14 Year old programmer from Sweden.</h3>
+<h3 align="center">A 14 Year old programmer from Sweden/Kosovo.</h3>
 
 - 🔭 I’m currently working on **DrkSelfbot**
 
