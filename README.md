@@ -1,6 +1,6 @@
 <h3 align="center">A 14 Year old programmer from Sweden/Kosovo.</h3>
 
-- 🔭 I’m currently working on **DrkSelfbot**
+- 🔭 I’m currently working on **BlackDC**
 
 - 📫 How to reach me **darksurface7810@gmail.com**
 
