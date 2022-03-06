@@ -4,6 +4,8 @@
 
 - 📫 How to reach me **darksurface7810@gmail.com**
 
+- DISCORD https://discord.gg/Ta2ZKMMe
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/drksurface" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="drksurface" height="30" width="40" /></a>
