@@ -1,6 +1,6 @@
 <h3 align="center">A 14 Year old learning programming/pentesting from Sweden/Kosovo.</h3>
 
-- 🔭 I’m currently working on **BlackDC**
+- 🔭 I’m currently working on **something outside of github**
 
 - 📫 How to reach me **darksurface@protonmail.com**
 
