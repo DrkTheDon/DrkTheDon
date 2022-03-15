@@ -1,4 +1,4 @@
-<h3 align="center">A 14 Year old programmer/Pentester from Sweden/Kosovo.</h3>
+<h3 align="center">A 14 Year old learning programming/pentesting from Sweden/Kosovo.</h3>
 
 - 🔭 I’m currently working on **BlackDC**
 
