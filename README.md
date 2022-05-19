@@ -4,7 +4,7 @@
 
 - 📫 How to reach me **darksurface@protonmail.com**
 
-- DISCORD https://discord.gg/Ta2ZKMMe
+- DISCORD https://discord.gg/FVtVn69tTC
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
