@@ -1,4 +1,4 @@
-<h3 align="center">A 14yo learning programming/pentesting from Sweden.</h3>
+<h3 align="center">A 15yo learning programming/pentesting from Sweden.</h3>
 
 - 🔭 I’m currently working on **something outside of github**
 
