@@ -1,10 +1,6 @@
 <h3 align="center">A 15yo learning programming/pentesting from Sweden.</h3>
 
-- 🔭 I’m currently working on **something outside of github**
-
-- 📫 How to reach me **darksurface@protonmail.com**
-
-- DISCORD https://discord.gg/FVtVn69tTC
+- 🔭 I’m currently playing **Escape From Tarkov**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
