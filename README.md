@@ -20,6 +20,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=drkthedon&show_icons=true&theme=tokyounight&locale=en&layout=compact" alt="drkthedon" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=drkthedon&show_icons=true&theme=tokyounight&"locale=en" alt="drkthedon" /></p>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=drkthedon&show_icons=true&theme=radical" alt="drkthedon" /></p>
