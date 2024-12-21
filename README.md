@@ -1,6 +1,6 @@
-<h3 align="center">A 16yo learning programming/pentesting from Sweden.</h3>
+<h3 align="center">A 17yo learning programming/pentesting from Sweden.</h3>
 
-- 🔭 playing tarkov.
+- 🔭 Learning reverse engineering && c++
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
