@@ -37,10 +37,6 @@
 
 ###
 
-<img align="left" height="149" src="https://media.tenor.com/LIw32rb25v4AAAAM/jump-style.gif"  />
-
-###
-
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/drkthedon/drkthedon/output/snake.svg" alt="Snake animation" />
